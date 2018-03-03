@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APP TEST</string>
+    <string name="login_reg">حساب جديد</string>
+    <string name="email_hint">الايميل</string>
+    <string name="login_btn">تسجيل دخول</string>
+    <string name="pass_hint">كلمة المرور</string>
+</resources>
